@@ -43,7 +43,7 @@ Este projeto é uma API RESTful desenvolvida em Node.js utilizando o framework E
 ## :package: Como rodar o projeto
 ### 1. Clone o repositório
 ```
-git clone [https://github.com/thitoGuimaraes/API-RESTful-MongoDB.git](https://github.com/thitoGuimaraes/API-RESTful-MongoDB.git)
+git clone https://github.com/thitoGuimaraes/API-RESTful-MongoDB.git
 ```
 ### 2. Instale as dependências
 ```
